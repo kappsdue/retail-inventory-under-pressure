@@ -1,0 +1,159 @@
+{
+  "name": "Retail Inventory Under Pressure",
+  "dataColors": [
+    "#005A8D",
+    "#CC0000",
+    "#0071CE",
+    "#C58A00",
+    "#667085",
+    "#17202A",
+    "#8FA6B2",
+    "#E8A87C"
+  ],
+  "background": "#F7F5F0",
+  "foreground": "#17202A",
+  "tableAccent": "#005A8D",
+  "good": "#0071CE",
+  "neutral": "#C58A00",
+  "bad": "#CC0000",
+  "maximum": "#005A8D",
+  "center": "#C58A00",
+  "minimum": "#F7F5F0",
+  "null": "#667085",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17202A"
+    },
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17202A"
+    },
+    "header": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17202A"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#667085"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#F7F5F0" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F7F5F0" } }
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#F7F5F0" } }
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#17202A" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "left"
+          }
+        ],
+        "categoryAxis": [
+          {
+            "show": true,
+            "gridlineShow": false,
+            "labelColor": { "solid": { "color": "#667085" } },
+            "axisColor": { "solid": { "color": "#667085" } },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "gridlineShow": false,
+            "labelColor": { "solid": { "color": "#667085" } },
+            "axisColor": { "solid": { "color": "#667085" } },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "labelColor": { "solid": { "color": "#17202A" } },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#17202A" } },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#17202A" } },
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#667085" } },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": false,
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#E5E1D8" } },
+            "rowPadding": 6
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#17202A" } },
+            "backColor": { "solid": { "color": "#F7F5F0" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 11
+          }
+        ],
+        "values": [
+          {
+            "fontColor": { "solid": { "color": "#17202A" } },
+            "backColor": { "solid": { "color": "#F7F5F0" } },
+            "fontFamily": "Segoe UI",
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
