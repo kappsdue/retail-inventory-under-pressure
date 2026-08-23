@@ -36,19 +36,19 @@ The analysis covers three periods:
 
 ### Home
 
-![Home](images/home.png)
+![Home](images/home.jpg)
 
 ### The 2022 Shock
 
-![The 2022 Shock](images/2022_shock.png)
+![The 2022 Shock](images/2022_shock.jpg)
 
 ### The Recovery
 
-![The Recovery](images/recovery.png)
+![The Recovery](images/recovery.jpg)
 
 ### Data & Methodology
 
-![Data & Methodology](images/data_methodology.png)
+![Data & Methodology](images/data_methodology.jpg)
 
 ---
 
